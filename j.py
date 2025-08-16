@@ -1,1 +1,3 @@
-print(3)
+x = 2
+if x > 3:
+   print(3)
